@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-nav{
+nav {
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -12,16 +12,16 @@ nav{
   border-bottom: 1px solid lightgray;
 }
 
-nav .links{
+nav .links {
   display: flex;
 }
-nav .links a{
+nav .links a {
   text-decoration: none;
   margin: 7px;
   color: black;
 }
 
-footer{
+footer {
   border-top: 1px solid lightgray;
   display: flex;
   align-items: center;
